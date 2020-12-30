@@ -8,12 +8,18 @@
 
 ## Table of Content
 >[1. Introduction](#introduction)
+
 >[2. Explanation](#Explanation)
+
 >[3. Check list](#Check-list)
+
 >[4. Pre-requisites](#Pre-requisites)
->[5. Overlap image](#Overlap image)
+
+>[5. Overlap image](#Overlap-image)
+
 >[6. Registration](#Registration)
->[7. Color map](#Color map)
+
+>[7. Color map](#Color-map)
 
 
 ## Introduction
