@@ -1,7 +1,7 @@
 # Opencv cookbook
 
 
-[![Logo](https://github.com/smalldan1022/Unet/blob/master/pics/Dan_Logo_3.png)](https://github.com/smalldan1022)
+![Logo](https://github.com/smalldan1022/Unet/blob/master/pics/Dan_Logo_3.png)
 
 [![Website online](https://img.shields.io/website/http/huggingface.co/transformers/index.html.svg?down_color=red&down_message=offline&up_message=online)](https://github.com/smalldan1022)
 
