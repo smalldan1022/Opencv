@@ -10,9 +10,9 @@
 
 >[1. Registration ](#Registration)
 
->[2. Image color transformation ](#Image_color_transformation)
+>[2. Image_color_transformation ](#Image_color_transformation)
 
->[3. Image Manipulation ](#Image_Manipulation)
+>[3. Image_Manipulation ](#Image_Manipulation)
 
 
 ## Introduction
@@ -25,7 +25,7 @@ Opencv cookbook is for the usage of providing the opencv methods used frequently
 
 ### Registration
 
-### Image color transformation
+### Image_color_transformation
 
-### Image Manipulation
+### Image_Manipulation
 
