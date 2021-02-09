@@ -25,7 +25,27 @@ Opencv cookbook is for the usage of providing the opencv methods used frequently
 
 ### Registration
 
+#### ORB
+
+demonstrate on the code ORB.py
+
+#### Sift
+
+not used before
+
+#### Surf
+
+not used before
+
 ### Image_color_transformation
 
+#### RGB -> hsv
+
+demonstration is on the code hsv_value.py
+
 ### Image_Manipulation
+
+#### blend two image into one , I usually used one image as an hover of the another
+
+demonstration is on the code hover.py
 
