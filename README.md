@@ -7,15 +7,12 @@
 
 
 ## Table of Content
->[1. Introduction](#introduction)
 
->[2. Method list](#Method-list)
+>[1. Registration ](#Registration)
 
->[3. Pre-requisites](#Pre-requisites)
+>[2. Image color transformation ](#Image_color_transformation)
 
->[4. Overlap image](#Overlap-image)
-
->[5. Registration](#Registration)
+>[3. Image Manipulation ](#Image_Manipulation)
 
 
 ## Introduction
@@ -26,17 +23,9 @@ Opencv cookbook is for the usage of providing the opencv methods used frequently
 
 ## Method list
 
-Opencv method lists for miscellaneous image process problems.
+### Registration
 
-- [x] Data leakage -> divide the dataset by patients
-- [x] Different dataset distribution -> use five fold method
-- [x] Save all the train values -> don't miss any train/valid values or the initial training hyperparameters
-- [x] Plot the result for you to check -> check whether the model got the right features or not  
+### Image color transformation
 
-
-## Pre-requisites
-
-## Overlap image
-
-## Registration
+### Image Manipulation
 
